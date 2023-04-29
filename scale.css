@@ -1,0 +1,40 @@
+<style>
+h1 {
+    text-align: center;
+  }
+  
+  form {
+    margin: 0 auto;
+    width: 200px;
+    
+  }
+  
+  label {
+    display: inline-block;
+    width: 70px;
+    background-color: white;
+  }
+  
+  input {
+    width: 120px;
+    border-radius: 100mm;
+  }
+  
+  select {
+    width: 120px;
+  }
+  
+  button {
+    margin-top: 10px;
+    background-color: royalblue;
+    box-sizing: content-box;
+  }
+  
+  #result {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    border-width: 30px;
+  }
+  </style>
